@@ -13,6 +13,8 @@ for ($i = 1; $i < $tableRows + 1; $i++) {
 	$output .= "</tr>";
 }
 
+$output .= "</table>";
+
 ?>
 
 <!doctype html>

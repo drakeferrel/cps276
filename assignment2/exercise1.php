@@ -11,6 +11,8 @@ for ($i = 1; $i < 5; $i++) {
 	$output .= "</ul>";
 }
 
+$output .= "</ul>";
+
 ?>
 
 <!doctype html>
